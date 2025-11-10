@@ -3,31 +3,31 @@
 ### Java Learning Log
 
 
-| **Aug 11–13 → Aug 18–20** | 🛠️ Git, Git Bash, GitHub setup & version control basics | ☕ Started Java fundamentals — syntax, data types, keywords, and variables | Java structure, main() method, statements, I/O operations | Basic programming, IDE setup, Git integration | ██████░░░░ 60% |
+| **Aug 11–13 → Aug 18–20** | 🛠️ Git, Git Bash, GitHub setup & version control basics | ☕ Started Java fundamentals — syntax, data types, keywords, and variables | Java structure, main() method, statements, I/O operations | Basic programming, IDE setup, Git integration | 
 
 
-| **Aug 18–20 → Aug 25–27** | 🔡 Basic Java syntax & structure | 🔁 Learned control flow — if, else, switch, while, for, do-while loops; introduced arrays (1D, 2D) | Decision making, iteration, matrix operations using nested loops | Logical thinking, structured coding | ███████░░░ 70% |
+| **Aug 18–20 → Aug 25–27** | 🔡 Basic Java syntax & structure | 🔁 Learned control flow — if, else, switch, while, for, do-while loops; introduced arrays (1D, 2D) | Decision making, iteration, matrix operations using nested loops | Logical thinking, structured coding | 
 
 
-| **Aug 25–27 → Sep 1–3** | 🔂 Loops & arrays | 🧩 Studied methods (definition, parameters, return types) and deep-dived into Strings | StringBuffer, StringBuilder, immutability, modular programming | Function design, string manipulation | ████████░░ 80% |
+| **Aug 25–27 → Sep 1–3** | 🔂 Loops & arrays | 🧩 Studied methods (definition, parameters, return types) and deep-dived into Strings | StringBuffer, StringBuilder, immutability, modular programming | Function design, string manipulation | 
 
 
-| **Sep 1–3 → Sep 8–10** | 🧮 Methods & String handling | 🏗️ Introduced to Object-Oriented Programming concepts | Encapsulation, Inheritance, Polymorphism, Abstraction, Constructors | Object modeling, access control, class structure | ████████░░ 85% |
+| **Sep 1–3 → Sep 8–10** | 🧮 Methods & String handling | 🏗️ Introduced to Object-Oriented Programming concepts | Encapsulation, Inheritance, Polymorphism, Abstraction, Constructors | Object modeling, access control, class structure | 
 
 
-| **Sep 8–10 → Sep 15–17** | 🧱 Basic OOPs & Constructors | ⚡ Advanced OOPs — Interfaces, Abstract Classes, and Polymorphism | Method Overloading & Overriding, Upcasting, Downcasting | Reusability, abstraction hierarchy, dynamic binding | █████████░ 90% |
+| **Sep 8–10 → Sep 15–17** | 🧱 Basic OOPs & Constructors | ⚡ Advanced OOPs — Interfaces, Abstract Classes, and Polymorphism | Method Overloading & Overriding, Upcasting, Downcasting | Reusability, abstraction hierarchy, dynamic binding |
 
 
-| **Sep 15–17 → Sep 22–24** | 💡 Theoretical OOP knowledge | 💼 Real-life Java problem-solving using OOP principles | Practical applications of inheritance, polymorphism, encapsulation | Modular design, problem analysis | █████████░ 92% |
+| **Sep 15–17 → Sep 22–24** | 💡 Theoretical OOP knowledge | 💼 Real-life Java problem-solving using OOP principles | Practical applications of inheritance, polymorphism, encapsulation | Modular design, problem analysis |
 
 
-| **Sep 22–24 → Oct 13–15** | 🔍 Practical OOP programs | 🧠 Completed Interfaces; learned Functional Interfaces, Default & Static methods, Marker Interfaces | Lambda Expressions and concise functional-style programming | Functional coding, cleaner syntax | ██████████ 95% |
+| **Sep 22–24 → Oct 13–15** | 🔍 Practical OOP programs | 🧠 Completed Interfaces; learned Functional Interfaces, Default & Static methods, Marker Interfaces | Lambda Expressions and concise functional-style programming | Functional coding, cleaner syntax |
 
 
-| **Oct 13–15 → Oct 27–29** | 🪄 Functional programming with Lambdas | ⚙️ Studied Packages, Exception Handling, and Wrapper Classes | Try-Catch-Finally, throw & throws, checked vs unchecked exceptions, Autoboxing & Unboxing | Error handling, modularization, type conversions | ██████████ 98% |
+| **Oct 13–15 → Oct 27–29** | 🪄 Functional programming with Lambdas | ⚙️ Studied Packages, Exception Handling, and Wrapper Classes | Try-Catch-Finally, throw & throws, checked vs unchecked exceptions, Autoboxing & Unboxing | Error handling, modularization, type conversions |
 
 
-| **Oct 27–29 → Nov 3–5** | ⚠️ Exceptions & Wrapper Classes | 🧮 Advanced Java — Generics, Collections Framework, and JDBC | List, Set, Queue, Map; ArrayList, HashSet, HashMap; CRUD operations using JDBC (MySQL) | Type safety, collection handling, database connectivity | 🏁 ██████████ 100% |
+| **Oct 27–29 → Nov 3–5** | ⚠️ Exceptions & Wrapper Classes | 🧮 Advanced Java — Generics, Collections Framework, and JDBC | List, Set, Queue, Map; ArrayList, HashSet, HashMap; CRUD operations using JDBC (MySQL) | Type safety, collection handling, database connectivity | 
 
 ---
 
